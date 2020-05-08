@@ -25,7 +25,7 @@ Notes:
 
 2. The file "Immobilienscout24 Data Preparation Notebook.ipynb" shows all code used to compile, clean and prepare the German housing data. 
 
-3. The notebook containing all code used for the analysis of the German housing data "Immobilienscout24_Analysis_Notebook v2.ipynb" is too large to view within Github, so please open the html file instead. Alternatively, download the files and open them locally on your laptop. 
+3. The notebook containing all code used for the analysis of the German housing data "Immobilienscout24_Analysis_Notebook v2.ipynb" is too large to view within Github, so please open the pdf file instead. Alternatively, download the ipynb file and open it locally on your laptop. 
 
 4. The notebook "Funda_Analysis_Notebook v2.ipynb" contains all code used to analyse the Dutch housing market. 
 
