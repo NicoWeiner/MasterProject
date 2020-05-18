@@ -5,16 +5,12 @@ All code regarding the Master of Science Thesis Project of Nicolas Weiner at the
 
 MASTER PROJECT TOPIC: 
 
-                                           The Role of Text in Real Estate:
-
-                                                Applying multi-level 
-                                         Natural Language Processing (NLP) 
-                                            on real estate descriptions 
-                                                 to predict prices
+                                          Advancing real estate pricing methods
+                                      by applying text classification and LIWC analysis 
+                                         on Dutch and German real estate listings 
                                                  
 Research Question: 
-To what extend can linguistics in real estate descriptions predict real estate price? 
-
+How do informal features and linguistic features deriving from real estate descriptions moderate the relationship of traditional features and price?
 
 
 Notes: 
@@ -27,6 +23,6 @@ Notes:
 
 3. The notebook containing all code used for the analysis of the German housing data "Immobilienscout24_Analysis_Notebook v2.ipynb" is too large to view within Github, so please open the pdf file instead. Alternatively, download the ipynb file and open it locally on your laptop. 
 
-4. The notebook "Funda_Analysis_Notebook v2.ipynb" contains all code used to analyse the Dutch housing market. 
+4. The notebook "Funda Analysis v5 - only relevant.ipynb" contains all code used to analyse the Dutch housing market. It is a working document and can be opened with Google Colab directly in the browser without any installation. 
 
 
